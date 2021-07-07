@@ -1,4 +1,4 @@
-# Overview of the project.
+# Overview of the project
 
 Louise wants to start crowd funding campaign to help fund her play Fever with estimated budget over $10,000. This project analyzes data of funded projects from www.gofundme.com to determine campaign fare based on launch dates and funding goals.
 The dataset is comprised of 9 years of sample data collected from nine countries with goal and pledged amount of different fund-raising categories.
